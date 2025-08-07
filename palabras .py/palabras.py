@@ -1,0 +1,1 @@
+palabras=[ "manzana", "uva","nuez","ocho","pulir","automóvil", "árbol","piña","naranja","puerta"]
